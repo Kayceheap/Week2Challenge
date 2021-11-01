@@ -3,11 +3,7 @@ a:hover {
     border: 1px solid black;
 }
 
-.links:hover {
-    height: 125px;
-    width: 125px;
-    border: solid 3px black;
-}
+
 
 body {
     background-color:rgb(207, 194, 196);
@@ -130,6 +126,8 @@ article {
  .run-buddy {
      background-image: url("../images/hero-bg.jpg");
      background-size: cover;
+     height: 275px;
+     width: 275px;
  }
 
  .project-2 {
@@ -223,6 +221,9 @@ article {
      width: 300px;
      margin-top: 20px;
     }
+
+
 }   
+
 
 

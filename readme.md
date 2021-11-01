@@ -1,4 +1,4 @@
-This website is used to explain Search Engine Optimization, Online Reputation Management, Social Media Marketing, Lead Generation, Brand Awareness, and Cost Management. 
+This is a website that contains my personal profile. There are links to my work and links on how to contact me.
 
 <img src="Screenshot.png"></img>
 
